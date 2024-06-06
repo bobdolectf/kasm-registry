@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Threatspace',
+    description: 'The official store for Threatspace developed workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://bobdolectf.github.io/kasm-registry',
     contactUrl: 'https://test.com/support',
